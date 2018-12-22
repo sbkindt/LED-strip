@@ -1,4 +1,4 @@
-# this is a test script
+// this is a test script
 
 const int BLINK_PIN_1 =   12;
 const int BLINK_PIN_2 =   11;
