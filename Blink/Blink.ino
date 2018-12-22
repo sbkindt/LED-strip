@@ -1,3 +1,5 @@
+# this is a test script
+
 const int BLINK_PIN_1 =   12;
 const int BLINK_PIN_2 =   11;
 const int BLINK_PIN_3 =   10;
